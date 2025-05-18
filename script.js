@@ -27,7 +27,7 @@ let type = old > 22 ? "20+" : "20-";
 
 console.log(type);
 
-
+/*
 
 let money = 620;
 
@@ -49,3 +49,39 @@ switch (true) {
     default:
         console.log("no chocie");
 }
+
+*/
+for (let i = 0; i < 10; i++) {
+
+    if (i % 2 == 1) {
+        console.log(i);
+
+    }
+}
+
+
+/*
+const person = {
+    name: "aaa",
+    age: 12,
+    job: "No job"
+}
+
+for (let key in person) {
+    console.log(key + " " + person[key]);
+
+
+}
+*/
+function createperson(name) {
+    return {
+        name,
+        greet() {
+            let msg = `gdsg ${this.name}`;
+            console.log(msg);
+
+        }
+    };
+}
+let aaa = createperson("aksksk");
+aaa.greet();
