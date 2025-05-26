@@ -50,7 +50,7 @@ switch (true) {
         console.log("no chocie");
 }
 
-*/
+
 for (let i = 0; i < 10; i++) {
 
     if (i % 2 == 1) {
@@ -59,20 +59,16 @@ for (let i = 0; i < 10; i++) {
     }
 }
 
+*/
+
 
 /*
-const person = {
-    name: "aaa",
-    age: 12,
-    job: "No job"
-}
-
 for (let key in person) {
     console.log(key + " " + person[key]);
 
 
 }
-*/
+
 function createperson(name) {
     return {
         name,
@@ -85,3 +81,46 @@ function createperson(name) {
 }
 let aaa = createperson("aksksk");
 aaa.greet();
+*/
+/*
+const person = {
+    name: "aaa",
+    age: 12,
+    job: "No job"
+}
+
+for (let key of Object.entries(person))
+    console.log(key);
+
+
+if ('studt' in person) {
+    console.log("yes");
+
+} else
+    console.log("no");
+*/
+
+let fruits = ["sksk", "djf", "dldk"]
+
+console.log(fruits.includes("sksk"));
+
+
+
+let vegetables = [{ id: 1, item: "carrot", qty: 2 },
+{ id: 2, item: "onion", qty: 6 },
+{ id: 3, item: "tomato", qty: 3 }
+]
+
+let vegg = vegetables.findIndex(function (veg) {
+    return veg.item == "tomato"
+})
+
+console.log(vegg);
+
+
+let arr1 = ["rfk", "kdk", "dkdk"]
+let arr2 = ["rgfk", "kiidk", "diitukdk"]
+
+let arr3 = [...arr1, ...arr2]
+
+console.log(arr3);
