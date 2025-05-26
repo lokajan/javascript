@@ -1,0 +1,130 @@
+/* styles.css */
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f9fb;
+    color: #333;
+}
+
+header {
+    background: #004d40;
+    color: #a7ffeb;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0.5rem 0;
+    font-weight: 700;
+    font-size: 2.2rem;
+}
+
+nav ul.nav-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
+nav ul.nav-links li a {
+    color: #a7ffeb;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+nav ul.nav-links li a:hover,
+nav ul.nav-links li a.active {
+    color: #00bfa5;
+    border-bottom: 2px solid #00bfa5;
+    padding-bottom: 0.2rem;
+}
+
+footer {
+    background: #004d40;
+    color: #a7ffeb;
+    padding: 1rem 2rem;
+    text-align: center;
+    font-size: 0.9rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
+
+main {
+    max-width: 900px;
+    margin: 3rem auto 4rem;
+    padding: 0 1rem;
+    min-height: 70vh;
+
+    padding-bottom: 80px;
+}
+
+h2 {
+    color: #00796b;
+    margin-bottom: 1rem;
+}
+
+section {
+    margin-bottom: 3rem;
+}
+
+button {
+    background-color: #00796b;
+    color: white;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #004d40;
+}
+
+input,
+textarea {
+    padding: 0.5rem;
+    width: 100%;
+    max-width: 400px;
+    margin: 0.5rem 0 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    resize: vertical;
+}
+
+#feedback-app {
+    max-width: 600px;
+    margin: auto;
+}
+
+#feedback-app ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#feedback-app li {
+    background: #e0f2f1;
+    margin-bottom: 0.7rem;
+    padding: 0.7rem;
+    border-radius: 5px;
+}
+
+/* Hide all pages by default */
+.page {
+    display: none;
+}
+
+/* Show active page */
+.page.active {
+    display: block;
+}

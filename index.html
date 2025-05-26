@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>UrbanInnovate - Smart City Solutions</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#" data-page="home" class="active">Home</a></li>
+        <li><a href="#" data-page="local-issues">Local Issues</a></li>
+        <li><a href="#" data-page="solutions">Solutions</a></li>
+        <li><a href="#" data-page="events">Community Events</a></li>
+        <li><a href="#" data-page="feedback">Feedback</a></li>
+      </ul>
+    </nav>
+    <h1>UrbanInnovate</h1>
+  </header>
+
+  <main>
+    <!-- Home Page -->
+    <section id="home" class="page active">
+      <h2>Welcome to UrbanInnovate</h2>
+      <p>
+        UrbanInnovate is your gateway to exploring how technology and sustainability
+        can transform our city into a smarter, greener, and more efficient place to live.
+      </p>
+      <p>
+        Our mission is to educate, engage, and empower urban residents with
+        innovative solutions addressing local challenges such as traffic congestion,
+        waste management, and energy efficiency.
+      </p>
+      <p>
+        Join us in building a future where technology and community work hand in hand
+        to make our city more livable for everyone.
+      </p>
+
+      <h2>Featured Smart City Initiatives</h2>
+      <ul>
+        <li>Adaptive Traffic Management Systems</li>
+        <li>Renewable Energy Street Lighting</li>
+        <li>Smart Waste Collection and Recycling</li>
+        <li>Urban Greening and Green Roofs</li>
+      </ul>
+    </section>
+
+    <!-- Local Issues Page -->
+    <section id="local-issues" class="page">
+      <h2>Major Urban Challenges in Our City</h2>
+      <article>
+        <h3>Traffic Congestion</h3>
+        <p>
+          Rush hour traffic often results in delays exceeding 45 minutes, increasing air pollution and stress for commuters.
+          The lack of optimized traffic signals and real-time data sharing worsens congestion.
+        </p>
+      </article>
+
+      <article>
+        <h3>Waste Management</h3>
+        <p>
+          Overflowing garbage bins and inconsistent collection schedules create unsanitary conditions,
+          attracting pests and negatively impacting neighborhoods.
+        </p>
+      </article>
+
+      <article>
+        <h3>Energy Consumption</h3>
+        <p>
+          Heavy reliance on non-renewable energy sources leads to high carbon emissions.
+          Many residential and commercial buildings lack smart meters and energy-saving devices.
+        </p>
+      </article>
+
+      <article>
+        <h3>Urban Heat Islands</h3>
+        <p>
+          Limited green spaces and high concrete density cause elevated temperatures in the city center,
+          affecting residents' health and increasing energy demands for cooling.
+        </p>
+      </article>
+    </section>
+
+    <!-- Solutions Page -->
+    <section id="solutions" class="page">
+      <h2>Innovative Solutions for Our City</h2>
+      <article>
+        <h3>Adaptive Traffic Signals</h3>
+        <p>Using sensor-driven lights to reduce idle time and improve traffic flow.</p>
+      </article>
+      <article>
+        <h3>Smart Recycling Bins</h3>
+        <p>Bins equipped with fill-level sensors notify waste services when collection is needed, optimizing routes.</p>
+      </article>
+      <article>
+        <h3>Solar-Powered Street Lighting</h3>
+        <p>Reducing energy costs and emissions by using renewable solar energy for public lighting.</p>
+      </article>
+
+      <h2>Energy Usage Tracker</h2>
+      <p>Enter your average monthly electricity consumption (kWh) to get personalized tips to save energy.</p>
+      <form id="energyForm">
+        <label for="energyInput">Monthly kWh:</label><br />
+        <input type="number" id="energyInput" min="0" placeholder="e.g. 350" required /><br />
+        <button type="submit">Get Tips</button>
+      </form>
+      <p id="energyTips"></p>
+    </section>
+
+    <!-- Community Events Page -->
+    <section id="events" class="page">
+      <h2>Community Events</h2>
+      <ul>
+        <li><strong>April 15:</strong> Urban Tech Expo — showcasing latest smart city gadgets</li>
+        <li><strong>May 3:</strong> Neighborhood Clean-Up Drive — join your neighbors to beautify streets</li>
+        <li><strong>June 10:</strong> Sustainable Living Workshop — learn how to reduce your carbon footprint</li>
+      </ul>
+      <p>Check back often for new events to participate and connect with your community!</p>
+    </section>
+
+    <!-- Feedback Page -->
+    <section id="feedback" class="page">
+      <h2>Community Feedback Forum</h2>
+      <div id="feedback-app">
+        <form @submit.prevent="addComment">
+          <label for="name">Name:</label><br />
+          <input type="text" id="name" v-model="newComment.name" required /><br />
+          <label for="comment">Comment:</label><br />
+          <textarea id="comment" rows="4" v-model="newComment.text" required></textarea><br />
+          <button type="submit">Submit</button>
+        </form>
+
+        <ul>
+          <li v-for="(comment, index) in comments" :key="index">
+            <strong>{{ comment.name }}:</strong> {{ comment.text }}
+          </li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 UrbanInnovate | Building Smarter Cities Together</p>
+  </footer>
+
+  <!-- Vue.js CDN -->
+  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+
+  <script>
+    // Page navigation
+    const navLinks = document.querySelectorAll('#nav-links a');
+    const pages = document.querySelectorAll('.page');
+
+    navLinks.forEach(link => {
+      link.addEventListener('click', e => {
+        e.preventDefault();
+        const targetPage = link.getAttribute('data-page');
+
+        // Remove active from all nav links
+        navLinks.forEach(l => l.classList.remove('active'));
+        link.classList.add('active');
+
+        // Show target page and hide others
+        pages.forEach(page => {
+          if(page.id === targetPage) {
+            page.classList.add('active');
+          } else {
+            page.classList.remove('active');
+          }
+        });
+      });
+    });
+
+    // Energy usage tracker
+    const energyForm = document.getElementById('energyForm');
+    const energyInput = document.getElementById('energyInput');
+    const energyTips = document.getElementById('energyTips');
+
+    energyForm.addEventListener('submit', e => {
+      e.preventDefault();
+      const kWh = Number(energyInput.value);
+      let tips = '';
+
+      if(kWh < 200) {
+        tips = 'Great job! Your energy consumption is low. Keep up the energy-saving habits.';
+      } else if(kWh < 400) {
+        tips = 'Consider upgrading to LED lighting and unplugging devices when not in use.';
+      } else {
+        tips = 'Try using smart thermostats, better insulation, and solar panels to reduce energy use.';
+      }
+      energyTips.textContent = tips;
+    });
+
+    // Vue Feedback app
+    const { createApp } = Vue;
+    createApp({
+      data() {
+        return {
+          newComment: { name: '', text: '' },
+          comments: []
+        }
+      },
+      methods: {
+        addComment() {
+          if(this.newComment.name.trim() && this.newComment.text.trim()) {
+            this.comments.push({
+              name: this.newComment.name.trim(),
+              text: this.newComment.text.trim()
+            });
+            this.newComment.name = '';
+            this.newComment.text = '';
+          }
+        }
+      }
+    }).mount('#feedback-app');
+  </script>
+</body>
+</html>
