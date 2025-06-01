@@ -1,0 +1,15 @@
+header {
+    padding: 5px;
+    color: #09e39a;
+    font-size: 25px;
+    background-color: blue;
+    text-align: center;
+}
+
+main {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(137, 201, 179);
+}
