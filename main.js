@@ -262,7 +262,7 @@ setInterval(() => {
 }, 5000);
 
 */
-
+/*
 let frm = document.querySelector("form");
 
 let dv = document.querySelector("form div");
@@ -281,3 +281,77 @@ dv.addEventListener("click", (event) => {
 frm.addEventListener("click", (event) => {
     alert("form....")
 })
+*/
+/*
+
+let frm = document.querySelector("form");
+
+let inputbt = document.querySelector("form input");
+let cb = document.querySelector("form input[type='checkbox']");
+
+console.log(cb);
+
+frm.addEventListener("submit", (event) => {
+
+    event.preventDefault();
+    if (!cb.checkd) {
+        alert("chek conditions")
+        return;
+    }
+    console.log("ur r saved")
+    console.log(inputbt.value, cb.checked);
+
+})
+    */
+/*
+let tb = document.querySelector("table");
+console.log(tb);
+
+tb.addEventListener("click", (event) => {
+
+    const target = event.target
+    console.log("clicked", target);
+
+})
+
+
+
+document.addEventListener("mousedown", (event) => {
+    console.log("mouse", event);
+
+})
+/*
+document.addEventListener("mouseenter", (event) => {
+    console.log("mouse2", event);
+
+})
+*/
+/*
+
+const me = document.getElementById("mainn")
+
+me.addEventListener("mouseenter", (event) => {
+    console.log("mouse2", event);
+
+})
+ */
+
+document.addEventListener("mouseup", (event) => {
+
+    switch (event.which) {
+        case 1:
+            console.log("left");
+            break;
+
+        case 2:
+            console.log(`middle`);
+            break;
+        case 3:
+            console.log(`rigjt`);
+            break;
+        default: 3
+            break;
+    }
+})
+
+//console.log("clicked", event.which);
