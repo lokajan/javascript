@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1749729572696,1497,HTTP Request,200,OK,Thread Group 1-2,text,true,,74899,137,20,20,https://ayusrilanka.lk/why-choose-sri-lanka/,1440,0,120
+1749729572779,1439,HTTP Request,200,OK,Thread Group 1-3,text,true,,74913,137,19,19,https://ayusrilanka.lk/why-choose-sri-lanka/,1211,0,117
+1749729572613,1605,HTTP Request,200,OK,Thread Group 1-1,text,true,,74899,137,19,19,https://ayusrilanka.lk/why-choose-sri-lanka/,1547,0,127
+1749729572862,1567,HTTP Request,200,OK,Thread Group 1-4,text,true,,74895,137,19,19,https://ayusrilanka.lk/why-choose-sri-lanka/,1511,0,119
+1749729573028,1483,HTTP Request,200,OK,Thread Group 1-6,text,true,,74905,137,19,19,https://ayusrilanka.lk/why-choose-sri-lanka/,1432,0,107
+1749729572945,1617,HTTP Request,200,OK,Thread Group 1-5,text,true,,74901,137,19,19,https://ayusrilanka.lk/why-choose-sri-lanka/,1568,0,106
+1749729573113,1600,HTTP Request,200,OK,Thread Group 1-7,text,true,,74901,137,20,20,https://ayusrilanka.lk/why-choose-sri-lanka/,1545,0,125
+1749729573194,1527,HTTP Request,200,OK,Thread Group 1-8,text,true,,74906,137,19,19,https://ayusrilanka.lk/why-choose-sri-lanka/,1473,0,120
+1749729573775,1350,HTTP Request,200,OK,Thread Group 1-15,text,true,,74906,137,23,23,https://ayusrilanka.lk/why-choose-sri-lanka/,1285,0,134
+1749729573277,2067,HTTP Request,200,OK,Thread Group 1-9,text,true,,74899,137,24,24,https://ayusrilanka.lk/why-choose-sri-lanka/,1995,0,120
+1749729573359,2052,HTTP Request,200,OK,Thread Group 1-10,text,true,,74897,137,24,24,https://ayusrilanka.lk/why-choose-sri-lanka/,1985,0,140
+1749729573443,2018,HTTP Request,200,OK,Thread Group 1-11,text,true,,74893,137,24,24,https://ayusrilanka.lk/why-choose-sri-lanka/,1968,0,105
+1749729574025,2226,HTTP Request,200,OK,Thread Group 1-18,text,true,,74903,137,32,32,https://ayusrilanka.lk/why-choose-sri-lanka/,2137,0,137
+1749729573526,2767,HTTP Request,200,OK,Thread Group 1-12,text,true,,74905,137,32,32,https://ayusrilanka.lk/why-choose-sri-lanka/,2506,0,132
+1749729574107,2205,HTTP Request,200,OK,Thread Group 1-19,text,true,,74907,137,31,31,https://ayusrilanka.lk/why-choose-sri-lanka/,2150,0,104
+1749729573941,2419,HTTP Request,200,OK,Thread Group 1-17,text,true,,74899,137,31,31,https://ayusrilanka.lk/why-choose-sri-lanka/,2352,0,105
+1749729573610,2775,HTTP Request,200,OK,Thread Group 1-13,text,true,,74895,137,30,30,https://ayusrilanka.lk/why-choose-sri-lanka/,2690,0,134
+1749729573691,2769,HTTP Request,200,OK,Thread Group 1-14,text,true,,74895,137,30,30,https://ayusrilanka.lk/why-choose-sri-lanka/,2696,0,104
+1749729573858,2626,HTTP Request,200,OK,Thread Group 1-16,text,true,,74901,137,29,29,https://ayusrilanka.lk/why-choose-sri-lanka/,2540,0,138
+1749729575269,2871,HTTP Request,200,OK,Thread Group 1-33,text,true,,74911,137,48,48,https://ayusrilanka.lk/why-choose-sri-lanka/,2795,0,149
+1749729574190,4134,HTTP Request,200,OK,Thread Group 1-20,text,true,,74901,137,49,49,https://ayusrilanka.lk/why-choose-sri-lanka/,4059,0,120
+1749729574606,3738,HTTP Request,200,OK,Thread Group 1-25,text,true,,74899,137,49,49,https://ayusrilanka.lk/why-choose-sri-lanka/,3671,0,122
+1749729575102,3298,HTTP Request,200,OK,Thread Group 1-31,text,true,,74900,137,48,48,https://ayusrilanka.lk/why-choose-sri-lanka/,3243,0,105
+1749729574273,4702,HTTP Request,200,OK,Thread Group 1-21,text,true,,74907,137,54,54,https://ayusrilanka.lk/why-choose-sri-lanka/,4082,0,125
+1749729575185,3813,HTTP Request,200,OK,Thread Group 1-32,text,true,,74907,137,53,53,https://ayusrilanka.lk/why-choose-sri-lanka/,3172,0,109
+1749729575684,3459,HTTP Request,200,OK,Thread Group 1-38,text,true,,74903,137,54,54,https://ayusrilanka.lk/why-choose-sri-lanka/,3394,0,125
+1749729574770,4514,HTTP Request,200,OK,Thread Group 1-27,text,true,,74903,137,55,55,https://ayusrilanka.lk/why-choose-sri-lanka/,4462,0,105
+1749729574687,4649,HTTP Request,200,OK,Thread Group 1-26,text,true,,74897,137,55,55,https://ayusrilanka.lk/why-choose-sri-lanka/,4583,0,133
+1749729574521,4834,HTTP Request,200,OK,Thread Group 1-24,text,true,,74903,137,54,54,https://ayusrilanka.lk/why-choose-sri-lanka/,4760,0,118
+1749729574854,4501,HTTP Request,200,OK,Thread Group 1-28,text,true,,74897,137,54,54,https://ayusrilanka.lk/why-choose-sri-lanka/,4439,0,119
+1749729576182,3236,HTTP Request,200,OK,Thread Group 1-44,text,true,,74897,137,52,52,https://ayusrilanka.lk/why-choose-sri-lanka/,3188,0,132
+1749729574937,4481,HTTP Request,200,OK,Thread Group 1-29,text,true,,74901,137,53,53,https://ayusrilanka.lk/why-choose-sri-lanka/,4430,0,105
+1749729575020,4421,HTTP Request,200,OK,Thread Group 1-30,text,true,,74907,137,51,51,https://ayusrilanka.lk/why-choose-sri-lanka/,4367,0,119
+1749729576513,3765,HTTP Request,200,OK,Thread Group 1-48,text,true,,74907,137,60,60,https://ayusrilanka.lk/why-choose-sri-lanka/,3694,0,160
+1749729574355,5990,HTTP Request,200,OK,Thread Group 1-22,text,true,,74901,137,60,60,https://ayusrilanka.lk/why-choose-sri-lanka/,5924,0,110
+1749729574438,5923,HTTP Request,200,OK,Thread Group 1-23,text,true,,74903,137,59,59,https://ayusrilanka.lk/why-choose-sri-lanka/,5853,0,131
+1749729575518,4862,HTTP Request,200,OK,Thread Group 1-36,text,true,,74899,137,58,58,https://ayusrilanka.lk/why-choose-sri-lanka/,4786,0,121
+1749729575767,5256,HTTP Request,200,OK,Thread Group 1-39,text,true,,74904,137,65,65,https://ayusrilanka.lk/why-choose-sri-lanka/,4670,0,108
+1749729575351,5841,HTTP Request,200,OK,Thread Group 1-34,text,true,,74905,137,66,66,https://ayusrilanka.lk/why-choose-sri-lanka/,5765,0,123
+1749729575600,5772,HTTP Request,200,OK,Thread Group 1-37,text,true,,74907,137,67,67,https://ayusrilanka.lk/why-choose-sri-lanka/,5721,0,108
+1749729575850,5562,HTTP Request,200,OK,Thread Group 1-40,text,true,,74901,137,67,67,https://ayusrilanka.lk/why-choose-sri-lanka/,5491,0,121
+1749729575933,5484,HTTP Request,200,OK,Thread Group 1-41,text,true,,74899,137,66,66,https://ayusrilanka.lk/why-choose-sri-lanka/,5417,0,137
+1749729576265,5212,HTTP Request,200,OK,Thread Group 1-45,text,true,,74920,137,65,65,https://ayusrilanka.lk/why-choose-sri-lanka/,5152,0,154
+1749729576016,5472,HTTP Request,200,OK,Thread Group 1-42,text,true,,74895,137,64,64,https://ayusrilanka.lk/why-choose-sri-lanka/,5406,0,126
+1749729575434,6055,HTTP Request,200,OK,Thread Group 1-35,text,true,,74901,137,64,64,https://ayusrilanka.lk/why-choose-sri-lanka/,5998,0,105
+1749729576099,5409,HTTP Request,200,OK,Thread Group 1-43,text,true,,74907,137,63,63,https://ayusrilanka.lk/why-choose-sri-lanka/,5335,0,125
+1749729577095,5385,HTTP Request,200,OK,Thread Group 1-55,text,true,,74903,137,73,73,https://ayusrilanka.lk/why-choose-sri-lanka/,5326,0,153
+1749729577926,5248,HTTP Request,200,OK,Thread Group 1-65,text,true,,74909,137,81,81,https://ayusrilanka.lk/why-choose-sri-lanka/,5172,0,141
+1749729576680,6585,HTTP Request,200,OK,Thread Group 1-50,text,true,,74899,137,81,81,https://ayusrilanka.lk/why-choose-sri-lanka/,6346,0,144
+1749729576761,6534,HTTP Request,200,OK,Thread Group 1-51,text,true,,74909,137,80,80,https://ayusrilanka.lk/why-choose-sri-lanka/,6269,0,140
+1749729576348,6947,HTTP Request,200,OK,Thread Group 1-46,text,true,,74908,137,80,80,https://ayusrilanka.lk/why-choose-sri-lanka/,6884,0,138
+1749729576430,6934,HTTP Request,200,OK,Thread Group 1-47,text,true,,74901,137,79,79,https://ayusrilanka.lk/why-choose-sri-lanka/,6866,0,166
+1749729576846,6551,HTTP Request,200,OK,Thread Group 1-52,text,true,,74901,137,78,78,https://ayusrilanka.lk/why-choose-sri-lanka/,6493,0,162
+1749729576599,6834,HTTP Request,200,OK,Thread Group 1-49,text,true,,74895,137,78,78,https://ayusrilanka.lk/why-choose-sri-lanka/,6765,0,149
+1749729576929,6548,HTTP Request,200,OK,Thread Group 1-53,text,true,,74901,137,77,77,https://ayusrilanka.lk/why-choose-sri-lanka/,6469,0,161
+1749729577428,6049,HTTP Request,200,OK,Thread Group 1-59,text,true,,74899,137,77,77,https://ayusrilanka.lk/why-choose-sri-lanka/,5971,0,154
+1749729577344,6657,HTTP Request,200,OK,Thread Group 1-58,text,true,,74908,137,82,82,https://ayusrilanka.lk/why-choose-sri-lanka/,6054,0,159
+1749729577760,6349,HTTP Request,200,OK,Thread Group 1-63,text,true,,74909,137,82,82,https://ayusrilanka.lk/why-choose-sri-lanka/,6271,0,134
+1749729577179,7142,HTTP Request,200,OK,Thread Group 1-56,text,true,,74905,137,84,84,https://ayusrilanka.lk/why-choose-sri-lanka/,7071,0,144
+1749729577012,7338,HTTP Request,200,OK,Thread Group 1-54,text,true,,74903,137,83,83,https://ayusrilanka.lk/why-choose-sri-lanka/,7260,0,159
+1749729577262,7131,HTTP Request,200,OK,Thread Group 1-57,text,true,,74899,137,82,82,https://ayusrilanka.lk/why-choose-sri-lanka/,7059,0,137
+1749729578257,6192,HTTP Request,200,OK,Thread Group 1-69,text,true,,74897,137,82,82,https://ayusrilanka.lk/why-choose-sri-lanka/,6114,0,145
+1749729577592,7722,HTTP Request,200,OK,Thread Group 1-61,text,true,,74895,137,92,92,https://ayusrilanka.lk/why-choose-sri-lanka/,7658,0,162
+1749729578175,7156,HTTP Request,200,OK,Thread Group 1-68,text,true,,74902,137,91,91,https://ayusrilanka.lk/why-choose-sri-lanka/,7091,0,108
+1749729578009,7322,HTTP Request,200,OK,Thread Group 1-66,text,true,,74899,137,91,91,https://ayusrilanka.lk/why-choose-sri-lanka/,7257,0,155
+1749729577677,7721,HTTP Request,200,OK,Thread Group 1-62,text,true,,74893,137,90,90,https://ayusrilanka.lk/why-choose-sri-lanka/,7654,0,144
+1749729577842,7580,HTTP Request,200,OK,Thread Group 1-64,text,true,,74897,137,89,89,https://ayusrilanka.lk/why-choose-sri-lanka/,7504,0,151
+1749729577510,7930,HTTP Request,200,OK,Thread Group 1-60,text,true,,74907,137,88,88,https://ayusrilanka.lk/why-choose-sri-lanka/,7855,0,146
+1749729578341,7970,HTTP Request,200,OK,Thread Group 1-70,text,true,,74899,137,98,98,https://ayusrilanka.lk/why-choose-sri-lanka/,7913,0,130
+1749729578506,7872,HTTP Request,200,OK,Thread Group 1-72,text,true,,74897,137,97,97,https://ayusrilanka.lk/why-choose-sri-lanka/,7803,0,148
+1749729578093,8308,HTTP Request,200,OK,Thread Group 1-67,text,true,,74901,137,97,97,https://ayusrilanka.lk/why-choose-sri-lanka/,8257,0,134
+1749729578425,8909,HTTP Request,200,OK,Thread Group 1-71,text,true,,74895,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,8846,0,155
+1749729579004,8359,HTTP Request,200,OK,Thread Group 1-78,text,true,,74905,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,8302,0,141
+1749729578590,8846,HTTP Request,200,OK,Thread Group 1-73,text,true,,74897,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,8775,0,148
+1749729586809,904,HTTP Request,429,Too Many Requests,Thread Group 1-172,text,false,,803,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,904,0,158
+1749729587306,448,HTTP Request,429,Too Many Requests,Thread Group 1-178,text,false,,805,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,448,0,133
+1749729586972,934,HTTP Request,429,Too Many Requests,Thread Group 1-174,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,934,0,149
+1749729587472,509,HTTP Request,429,Too Many Requests,Thread Group 1-180,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,509,0,168
+1749729578757,9237,HTTP Request,200,OK,Thread Group 1-75,text,true,,74910,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,8583,0,107
+1749729579585,8470,HTTP Request,200,OK,Thread Group 1-85,text,true,,74897,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,8409,0,154
+1749729579252,8822,HTTP Request,200,OK,Thread Group 1-81,text,true,,74907,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,8754,0,121
+1749729579088,9211,HTTP Request,200,OK,Thread Group 1-79,text,true,,74905,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,9153,0,130
+1749729579669,8631,HTTP Request,200,OK,Thread Group 1-86,text,true,,74903,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,8581,0,141
+1749729579419,8888,HTTP Request,200,OK,Thread Group 1-83,text,true,,74899,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,8829,0,144
+1749729578838,9476,HTTP Request,200,OK,Thread Group 1-76,text,true,,74897,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,9412,0,140
+1749729579502,8812,HTTP Request,200,OK,Thread Group 1-84,text,true,,74893,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,8750,0,130
+1749729578672,9653,HTTP Request,200,OK,Thread Group 1-74,text,true,,74903,137,104,104,https://ayusrilanka.lk/why-choose-sri-lanka/,9590,0,137
+1749729579834,8551,HTTP Request,200,OK,Thread Group 1-88,text,true,,74901,137,103,103,https://ayusrilanka.lk/why-choose-sri-lanka/,8491,0,144
+1749729579170,9237,HTTP Request,200,OK,Thread Group 1-80,text,true,,74899,137,103,103,https://ayusrilanka.lk/why-choose-sri-lanka/,9184,0,125
+1749729578924,9530,HTTP Request,200,OK,Thread Group 1-77,text,true,,74897,137,102,102,https://ayusrilanka.lk/why-choose-sri-lanka/,9462,0,123
+1749729580084,8391,HTTP Request,200,OK,Thread Group 1-91,text,true,,74910,137,102,102,https://ayusrilanka.lk/why-choose-sri-lanka/,8323,0,168
+1749729580249,8917,HTTP Request,200,OK,Thread Group 1-93,text,true,,74897,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,8832,0,159
+1749729580418,8758,HTTP Request,200,OK,Thread Group 1-95,text,true,,74905,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,8692,0,147
+1749729579917,9405,HTTP Request,200,OK,Thread Group 1-89,text,true,,74899,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,9337,0,131
+1749729589215,451,HTTP Request,429,Too Many Requests,Thread Group 1-201,text,false,,805,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,451,0,140
+1749729588716,979,HTTP Request,429,Too Many Requests,Thread Group 1-195,text,false,,809,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,979,0,165
+1749729588800,946,HTTP Request,429,Too Many Requests,Thread Group 1-196,text,false,,801,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,946,0,160
+1749729588883,924,HTTP Request,429,Too Many Requests,Thread Group 1-197,text,false,,805,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,924,0,154
+1749729588966,936,HTTP Request,429,Too Many Requests,Thread Group 1-198,text,false,,811,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,936,0,145
+1749729589045,946,HTTP Request,429,Too Many Requests,Thread Group 1-199,text,false,,803,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,946,0,132
+1749729579750,10268,HTTP Request,200,OK,Thread Group 1-87,text,true,,74909,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,9696,0,128
+1749729589381,960,HTTP Request,429,Too Many Requests,Thread Group 1-203,text,false,,807,137,113,113,https://ayusrilanka.lk/why-choose-sri-lanka/,960,0,129
+1749729580167,10195,HTTP Request,200,OK,Thread Group 1-92,text,true,,74901,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,10138,0,114
+1749729579337,11047,HTTP Request,200,OK,Thread Group 1-82,text,true,,74905,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,10968,0,151
+1749729589464,937,HTTP Request,429,Too Many Requests,Thread Group 1-204,text,false,,801,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,937,0,139
+1749729589547,915,HTTP Request,429,Too Many Requests,Thread Group 1-205,text,false,,803,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,915,0,136
+1749729589632,903,HTTP Request,429,Too Many Requests,Thread Group 1-206,text,false,,813,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,903,0,135
+1749729589713,868,HTTP Request,429,Too Many Requests,Thread Group 1-207,text,false,,807,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,868,0,115
+1749729589880,912,HTTP Request,429,Too Many Requests,Thread Group 1-209,text,false,,803,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,912,0,151
+1749729589958,904,HTTP Request,429,Too Many Requests,Thread Group 1-210,text,false,,803,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,904,0,122
+1749729590462,453,HTTP Request,429,Too Many Requests,Thread Group 1-216,text,false,,805,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,453,0,148
+1749729590047,914,HTTP Request,429,Too Many Requests,Thread Group 1-211,text,false,,805,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,914,0,134
+1749729580500,10517,HTTP Request,200,OK,Thread Group 1-96,text,true,,74907,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,9939,0,140
+1749729582160,8958,HTTP Request,200,OK,Thread Group 1-116,text,true,,74907,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,8902,0,148
+1749729581411,9846,HTTP Request,200,OK,Thread Group 1-107,text,true,,74911,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,9779,0,149
+1749729580332,10966,HTTP Request,200,OK,Thread Group 1-94,text,true,,74901,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,10906,0,154
+1749729584153,7163,HTTP Request,200,OK,Thread Group 1-140,text,true,,74904,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,7104,0,123
+1749729581494,9876,HTTP Request,200,OK,Thread Group 1-108,text,true,,74901,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,9804,0,141
+1749729580665,10769,HTTP Request,200,OK,Thread Group 1-98,text,true,,74905,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,10712,0,149
+1749729580914,10576,HTTP Request,200,OK,Thread Group 1-101,text,true,,74901,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,10496,0,148
+1749729590794,938,HTTP Request,429,Too Many Requests,Thread Group 1-220,text,false,,801,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,938,0,149
+1749729590876,953,HTTP Request,429,Too Many Requests,Thread Group 1-221,text,false,,803,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,953,0,143
+1749729591375,454,HTTP Request,429,Too Many Requests,Thread Group 1-227,text,false,,803,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,454,0,158
+1749729590959,945,HTTP Request,429,Too Many Requests,Thread Group 1-222,text,false,,809,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,945,0,162
+1749729581661,10524,HTTP Request,200,OK,Thread Group 1-110,text,true,,74917,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,10452,0,152
+1749729591541,696,HTTP Request,429,Too Many Requests,Thread Group 1-229,text,false,,815,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,696,0,147
+1749729581163,11115,HTTP Request,200,OK,Thread Group 1-104,text,true,,74897,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,11056,0,126
+1749729580999,11279,HTTP Request,200,OK,Thread Group 1-102,text,true,,74903,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,11216,0,142
+1749729580833,11464,HTTP Request,200,OK,Thread Group 1-100,text,true,,74897,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,11405,0,154
+1749729580581,11726,HTTP Request,200,OK,Thread Group 1-97,text,true,,74897,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,11674,0,130
+1749729581579,10766,HTTP Request,200,OK,Thread Group 1-109,text,true,,74897,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,10699,0,158
+1749729581247,11115,HTTP Request,200,OK,Thread Group 1-105,text,true,,74895,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,11051,0,147
+1749729581825,10584,HTTP Request,200,OK,Thread Group 1-112,text,true,,74901,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,10520,0,127
+1749729580748,11682,HTTP Request,200,OK,Thread Group 1-99,text,true,,74897,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,11615,0,136
+1749729581329,11157,HTTP Request,200,OK,Thread Group 1-106,text,true,,74897,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,11101,0,133
+1749729592371,458,HTTP Request,429,Too Many Requests,Thread Group 1-239,text,false,,799,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,458,0,143
+1749729591950,954,HTTP Request,429,Too Many Requests,Thread Group 1-234,text,false,,817,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,954,0,123
+1749729592039,955,HTTP Request,429,Too Many Requests,Thread Group 1-235,text,false,,811,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,955,0,149
+1749729592121,873,HTTP Request,429,Too Many Requests,Thread Group 1-236,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,873,0,136
+1749729592621,440,HTTP Request,429,Too Many Requests,Thread Group 1-242,text,false,,803,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,440,0,141
+1749729592786,456,HTTP Request,520,<none>,Thread Group 1-244,,false,,538,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,456,0,144
+1749729581743,11569,HTTP Request,200,OK,Thread Group 1-111,text,true,,74903,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,11519,0,142
+1749729581908,11468,HTTP Request,200,OK,Thread Group 1-113,text,true,,74910,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,11401,0,153
+1749729582325,11126,HTTP Request,200,OK,Thread Group 1-118,text,true,,74901,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,11051,0,160
+1749729592869,901,HTTP Request,429,Too Many Requests,Thread Group 1-245,text,false,,805,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,901,0,129
+1749729592952,966,HTTP Request,429,Too Many Requests,Thread Group 1-246,text,false,,809,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,966,0,158
+1749729593035,914,HTTP Request,429,Too Many Requests,Thread Group 1-247,text,false,,799,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,914,0,152
+1749729593118,957,HTTP Request,429,Too Many Requests,Thread Group 1-248,text,false,,805,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,957,0,146
+1749729580000,14173,HTTP Request,200,OK,Thread Group 1-90,text,true,,74905,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,14107,0,115
+1749729582077,12221,HTTP Request,200,OK,Thread Group 1-115,text,true,,74916,137,113,113,https://ayusrilanka.lk/why-choose-sri-lanka/,11979,0,155
+1749729581993,12362,HTTP Request,200,OK,Thread Group 1-114,text,true,,74895,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,12305,0,139
+1749729582242,12132,HTTP Request,200,OK,Thread Group 1-117,text,true,,74903,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,12059,0,141
+1749729582988,11461,HTTP Request,200,OK,Thread Group 1-126,text,true,,74897,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,11411,0,139
+1749729582573,11904,HTTP Request,200,OK,Thread Group 1-121,text,true,,74899,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,11826,0,128
+1749729594032,444,HTTP Request,429,Too Many Requests,Thread Group 1-259,text,false,,801,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,444,0,143
+1749729593612,912,HTTP Request,429,Too Many Requests,Thread Group 1-254,text,false,,809,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,912,0,161
+1749729593699,943,HTTP Request,429,Too Many Requests,Thread Group 1-255,text,false,,801,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,943,0,149
+1749729594197,472,HTTP Request,429,Too Many Requests,Thread Group 1-261,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,472,0,160
+1749729593783,911,HTTP Request,429,Too Many Requests,Thread Group 1-256,text,false,,803,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,911,0,138
+1749729593866,919,HTTP Request,429,Too Many Requests,Thread Group 1-257,text,false,,807,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,919,0,129
+1749729594612,454,HTTP Request,429,Too Many Requests,Thread Group 1-266,text,false,,803,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,454,0,128
+1749729582656,12433,HTTP Request,200,OK,Thread Group 1-122,text,true,,74903,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,12365,0,160
+1749729582825,12314,HTTP Request,200,OK,Thread Group 1-124,text,true,,74906,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,12242,0,139
+1749729582490,12896,HTTP Request,200,OK,Thread Group 1-120,text,true,,74901,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,12828,0,142
+1749729583070,12357,HTTP Request,200,OK,Thread Group 1-127,text,true,,74905,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,12287,0,127
+1749729582406,13049,HTTP Request,200,OK,Thread Group 1-119,text,true,,74903,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,12993,0,155
+1749729594696,872,HTTP Request,429,Too Many Requests,Thread Group 1-267,text,false,,807,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,872,0,141
+1749729594779,931,HTTP Request,429,Too Many Requests,Thread Group 1-268,text,false,,807,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,931,0,127
+1749729594862,943,HTTP Request,429,Too Many Requests,Thread Group 1-269,text,false,,803,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,943,0,163
+1749729594945,945,HTTP Request,429,Too Many Requests,Thread Group 1-270,text,false,,807,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,945,0,147
+1749729595028,896,HTTP Request,429,Too Many Requests,Thread Group 1-271,text,false,,807,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,896,0,139
+1749729595112,907,HTTP Request,429,Too Many Requests,Thread Group 1-272,text,false,,803,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,907,0,126
+1749729595526,493,HTTP Request,429,Too Many Requests,Thread Group 1-277,text,false,,807,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,493,0,153
+1749729583404,12734,HTTP Request,200,OK,Thread Group 1-131,text,true,,74911,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,12628,0,128
+1749729583488,12670,HTTP Request,200,OK,Thread Group 1-132,text,true,,74905,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,12600,0,137
+1749729583238,12924,HTTP Request,200,OK,Thread Group 1-129,text,true,,74914,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,12859,0,115
+1749729583322,12967,HTTP Request,200,OK,Thread Group 1-130,text,true,,74897,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,12906,0,140
+1749729583153,13156,HTTP Request,200,OK,Thread Group 1-128,text,true,,74895,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,13080,0,146
+1749729582739,13595,HTTP Request,200,OK,Thread Group 1-123,text,true,,74899,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,13532,0,155
+1749729582905,13456,HTTP Request,200,OK,Thread Group 1-125,text,true,,74905,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,13381,0,125
+1749729583571,12858,HTTP Request,200,OK,Thread Group 1-133,text,true,,74905,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,12798,0,156
+1749729596272,445,HTTP Request,429,Too Many Requests,Thread Group 1-286,text,false,,803,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,445,0,124
+1749729595852,904,HTTP Request,429,Too Many Requests,Thread Group 1-281,text,false,,807,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,904,0,147
+1749729595941,885,HTTP Request,429,Too Many Requests,Thread Group 1-282,text,false,,807,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,885,0,127
+1749729596101,891,HTTP Request,429,Too Many Requests,Thread Group 1-284,text,false,,801,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,891,0,128
+1749729596023,994,HTTP Request,429,Too Many Requests,Thread Group 1-283,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,994,0,138
+1749729584067,13019,HTTP Request,200,OK,Thread Group 1-139,text,true,,74903,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,12946,0,145
+1749729583653,13692,HTTP Request,200,OK,Thread Group 1-134,text,true,,74895,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,13616,0,151
+1749729583818,13563,HTTP Request,200,OK,Thread Group 1-136,text,true,,74905,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,13503,0,137
+1749729583735,13715,HTTP Request,200,OK,Thread Group 1-135,text,true,,74899,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,13652,0,149
+1749729596520,966,HTTP Request,429,Too Many Requests,Thread Group 1-289,text,false,,805,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,966,0,142
+1749729597102,439,HTTP Request,429,Too Many Requests,Thread Group 1-296,text,false,,803,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,439,0,139
+1749729596604,988,HTTP Request,429,Too Many Requests,Thread Group 1-290,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,988,0,176
+1749729596770,898,HTTP Request,429,Too Many Requests,Thread Group 1-292,text,false,,815,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,898,0,126
+1749729597267,477,HTTP Request,429,Too Many Requests,Thread Group 1-298,text,false,,809,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,477,0,156
+1749729596936,912,HTTP Request,429,Too Many Requests,Thread Group 1-294,text,false,,809,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,912,0,127
+1749729597019,1009,HTTP Request,429,Too Many Requests,Thread Group 1-295,text,false,,805,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,990,0,147
+1749729584401,13663,HTTP Request,200,OK,Thread Group 1-143,text,true,,74909,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,13605,0,127
+1749729584733,13410,HTTP Request,200,OK,Thread Group 1-147,text,true,,74908,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,13332,0,156
+1749729581079,17139,HTTP Request,200,OK,Thread Group 1-103,text,true,,74906,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,17073,0,142
+1749729584319,14023,HTTP Request,200,OK,Thread Group 1-142,text,true,,74903,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,13973,0,110
+1749729583984,14389,HTTP Request,200,OK,Thread Group 1-138,text,true,,74905,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,14312,0,150
+1749729583901,14472,HTTP Request,200,OK,Thread Group 1-137,text,true,,74901,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,14401,0,157
+1749729584233,14169,HTTP Request,200,OK,Thread Group 1-141,text,true,,74897,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,14109,0,141
+1749729598183,464,HTTP Request,429,Too Many Requests,Thread Group 1-309,text,false,,813,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,464,0,144
+1749729597774,934,HTTP Request,429,Too Many Requests,Thread Group 1-304,text,false,,803,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,934,0,152
+1749729598265,479,HTTP Request,429,Too Many Requests,Thread Group 1-310,text,false,,801,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,479,0,163
+1749729597858,926,HTTP Request,429,Too Many Requests,Thread Group 1-305,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,925,0,144
+1749729597941,919,HTTP Request,429,Too Many Requests,Thread Group 1-306,text,false,,815,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,919,0,126
+1749729584482,14568,HTTP Request,200,OK,Thread Group 1-144,text,true,,74905,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,14498,0,155
+1749729598597,475,HTTP Request,429,Too Many Requests,Thread Group 1-314,text,false,,807,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,475,0,150
+1749729584815,14551,HTTP Request,200,OK,Thread Group 1-148,text,true,,74912,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,14318,0,149
+1749729585314,14119,HTTP Request,200,OK,Thread Group 1-154,text,true,,74895,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,14051,0,111
+1749729584567,14918,HTTP Request,200,OK,Thread Group 1-145,text,true,,74899,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,14835,0,149
+1749729599093,470,HTTP Request,429,Too Many Requests,Thread Group 1-320,text,false,,809,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,470,0,159
+1749729598679,942,HTTP Request,429,Too Many Requests,Thread Group 1-315,text,false,,803,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,942,0,139
+1749729599177,469,HTTP Request,429,Too Many Requests,Thread Group 1-321,text,false,,803,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,469,0,154
+1749729598762,905,HTTP Request,429,Too Many Requests,Thread Group 1-316,text,false,,811,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,905,0,126
+1749729598846,874,HTTP Request,429,Too Many Requests,Thread Group 1-317,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,874,0,135
+1749729598928,896,HTTP Request,429,Too Many Requests,Thread Group 1-318,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,896,0,124
+1749729599426,439,HTTP Request,429,Too Many Requests,Thread Group 1-324,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,439,0,140
+1749729599011,927,HTTP Request,429,Too Many Requests,Thread Group 1-319,text,false,,807,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,927,0,141
+1749729584899,15076,HTTP Request,200,OK,Thread Group 1-149,text,true,,74902,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,14272,0,142
+1749729585563,14412,HTTP Request,200,OK,Thread Group 1-157,text,true,,74905,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,13833,0,145
+1749729585398,14760,HTTP Request,200,OK,Thread Group 1-155,text,true,,74905,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,14703,0,155
+1749729585895,14265,HTTP Request,200,OK,Thread Group 1-161,text,true,,74905,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,14217,0,141
+1749729584653,15675,HTTP Request,200,OK,Thread Group 1-146,text,true,,74911,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,15625,0,134
+1749729584982,15389,HTTP Request,200,OK,Thread Group 1-150,text,true,,74899,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,15147,0,183
+1749729585230,15161,HTTP Request,200,OK,Thread Group 1-153,text,true,,74897,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,15103,0,139
+1749729585151,15258,HTTP Request,200,OK,Thread Group 1-152,text,true,,74899,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,15194,0,161
+1749729600009,945,HTTP Request,429,Too Many Requests,Thread Group 1-331,text,false,,805,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,945,0,141
+1749729586227,14788,HTTP Request,200,OK,Thread Group 1-165,text,true,,74902,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,14182,0,176
+1749729600091,923,HTTP Request,429,Too Many Requests,Thread Group 1-332,text,false,,809,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,923,0,140
+1749729600256,915,HTTP Request,429,Too Many Requests,Thread Group 1-334,text,false,,805,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,914,0,134
+1749729600339,909,HTTP Request,429,Too Many Requests,Thread Group 1-335,text,false,,813,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,909,0,151
+1749729600838,471,HTTP Request,429,Too Many Requests,Thread Group 1-341,text,false,,799,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,471,0,153
+1749729600432,901,HTTP Request,429,Too Many Requests,Thread Group 1-336,text,false,,813,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,901,0,120
+1749729585064,16324,HTTP Request,200,OK,Thread Group 1-151,text,true,,74893,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,16246,0,161
+1749729600589,913,HTTP Request,429,Too Many Requests,Thread Group 1-338,text,false,,809,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,913,0,126
+1749729600506,996,HTTP Request,429,Too Many Requests,Thread Group 1-337,text,false,,805,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,996,0,140
+1749729601172,443,HTTP Request,429,Too Many Requests,Thread Group 1-345,text,false,,807,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,443,0,144
+1749729600673,942,HTTP Request,429,Too Many Requests,Thread Group 1-339,text,false,,805,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,942,0,152
+1749729600754,961,HTTP Request,429,Too Many Requests,Thread Group 1-340,text,false,,809,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,961,0,138
+1749729601420,423,HTTP Request,429,Too Many Requests,Thread Group 1-348,text,false,,801,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,423,0,130
+1749729600931,944,HTTP Request,429,Too Many Requests,Thread Group 1-342,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,944,0,159
+1749729601004,930,HTTP Request,429,Too Many Requests,Thread Group 1-343,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,930,0,144
+1749729585816,16218,HTTP Request,200,OK,Thread Group 1-160,text,true,,74915,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,15582,0,149
+1749729586892,15296,HTTP Request,200,OK,Thread Group 1-173,text,true,,74909,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,15223,0,152
+1749729585646,16652,HTTP Request,200,OK,Thread Group 1-158,text,true,,74899,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,16597,0,134
+1749729585978,16344,HTTP Request,200,OK,Thread Group 1-162,text,true,,74897,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,16277,0,133
+1749729585729,16620,HTTP Request,200,OK,Thread Group 1-159,text,true,,74901,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,16545,0,156
+1749729586307,16152,HTTP Request,200,OK,Thread Group 1-166,text,true,,74907,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,16082,0,154
+1749729602084,499,HTTP Request,429,Too Many Requests,Thread Group 1-356,text,false,,801,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,499,0,157
+1749729601751,905,HTTP Request,429,Too Many Requests,Thread Group 1-352,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,905,0,126
+1749729601678,1015,HTTP Request,429,Too Many Requests,Thread Group 1-351,text,false,,801,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,1015,0,131
+1749729602427,482,HTTP Request,429,Too Many Requests,Thread Group 1-360,text,false,,809,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,482,0,159
+1749729601918,991,HTTP Request,429,Too Many Requests,Thread Group 1-354,text,false,,803,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,991,0,164
+1749729602011,946,HTTP Request,429,Too Many Requests,Thread Group 1-355,text,false,,801,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,946,0,153
+1749729586062,16911,HTTP Request,200,OK,Thread Group 1-163,text,true,,74907,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,16349,0,142
+1749729602500,472,HTTP Request,429,Too Many Requests,Thread Group 1-361,text,false,,803,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,472,0,159
+1749729587141,15849,HTTP Request,200,OK,Thread Group 1-176,text,true,,74907,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,15274,0,126
+1749729586560,16449,HTTP Request,200,OK,Thread Group 1-169,text,true,,74909,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,15840,0,138
+1749729587561,15552,HTTP Request,200,OK,Thread Group 1-181,text,true,,74897,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,15484,0,156
+1749729586477,16816,HTTP Request,200,OK,Thread Group 1-168,text,true,,74904,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,16740,0,151
+1749729586397,16926,HTTP Request,200,OK,Thread Group 1-167,text,true,,74901,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,16874,0,133
+1749729586726,16662,HTTP Request,200,OK,Thread Group 1-171,text,true,,74897,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,16594,0,140
+1749729586141,17267,HTTP Request,200,OK,Thread Group 1-164,text,true,,74903,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,17183,0,172
+1749729602999,930,HTTP Request,429,Too Many Requests,Thread Group 1-367,text,false,,811,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,930,0,142
+1749729603497,470,HTTP Request,429,Too Many Requests,Thread Group 1-373,text,false,,817,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,470,0,156
+1749729587057,16942,HTTP Request,200,OK,Thread Group 1-175,text,true,,74907,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,16111,0,140
+1749729587722,16299,HTTP Request,200,OK,Thread Group 1-183,text,true,,74911,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,15697,0,141
+1749729603330,991,HTTP Request,429,Too Many Requests,Thread Group 1-371,text,false,,811,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,991,0,153
+1749729587805,16516,HTTP Request,200,OK,Thread Group 1-184,text,true,,74895,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,16456,0,133
+1749729603413,944,HTTP Request,429,Too Many Requests,Thread Group 1-372,text,false,,811,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,944,0,137
+1749729586643,17783,HTTP Request,200,OK,Thread Group 1-170,text,true,,74895,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,17735,0,126
+1749729603663,896,HTTP Request,429,Too Many Requests,Thread Group 1-375,text,false,,817,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,896,0,129
+1749729604162,499,HTTP Request,429,Too Many Requests,Thread Group 1-381,text,false,,805,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,499,0,161
+1749729603828,963,HTTP Request,429,Too Many Requests,Thread Group 1-377,text,false,,803,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,963,0,172
+1749729603736,1055,HTTP Request,429,Too Many Requests,Thread Group 1-376,text,false,,811,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,1055,0,127
+1749729603923,937,HTTP Request,429,Too Many Requests,Thread Group 1-378,text,false,,805,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,937,0,151
+1749729604410,450,HTTP Request,429,Too Many Requests,Thread Group 1-384,text,false,,805,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,450,0,152
+1749729604494,440,HTTP Request,429,Too Many Requests,Thread Group 1-385,text,false,,809,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,440,0,137
+1749729603995,973,HTTP Request,429,Too Many Requests,Thread Group 1-379,text,false,,807,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,973,0,146
+1749729604068,900,HTTP Request,429,Too Many Requests,Thread Group 1-380,text,false,,801,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,900,0,145
+1749729587971,17038,HTTP Request,200,OK,Thread Group 1-186,text,true,,74913,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,16186,0,130
+1749729588137,17174,HTTP Request,200,OK,Thread Group 1-188,text,true,,74905,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,17125,0,114
+1749729587389,17936,HTTP Request,200,OK,Thread Group 1-179,text,true,,74897,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17874,0,166
+1749729587638,17694,HTTP Request,200,OK,Thread Group 1-182,text,true,,74903,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,17632,0,149
+1749729587223,18130,HTTP Request,200,OK,Thread Group 1-177,text,true,,74904,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,18055,0,142
+1749729588054,17312,HTTP Request,200,OK,Thread Group 1-187,text,true,,74903,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,17257,0,140
+1749729588220,17151,HTTP Request,200,OK,Thread Group 1-189,text,true,,74907,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,17092,0,131
+1749729587883,17549,HTTP Request,200,OK,Thread Group 1-185,text,true,,74901,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,17487,0,148
+1749729604824,963,HTTP Request,429,Too Many Requests,Thread Group 1-389,text,false,,807,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,963,0,147
+1749729604991,956,HTTP Request,429,Too Many Requests,Thread Group 1-391,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,956,0,160
+1749729605074,930,HTTP Request,429,Too Many Requests,Thread Group 1-392,text,false,,807,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,930,0,153
+1749729605572,491,HTTP Request,429,Too Many Requests,Thread Group 1-398,text,false,,809,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,491,0,171
+1749729588557,17558,HTTP Request,200,OK,Thread Group 1-193,text,true,,74913,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17483,0,147
+1749729588302,18068,HTTP Request,200,OK,Thread Group 1-190,text,true,,74913,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,18013,0,109
+1749729605489,912,HTTP Request,429,Too Many Requests,Thread Group 1-397,text,false,,807,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,912,0,140
+1749729605904,497,HTTP Request,429,Too Many Requests,Thread Group 1-402,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,497,0,161
+1749729605656,980,HTTP Request,429,Too Many Requests,Thread Group 1-399,text,false,,807,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,980,0,170
+1749729605740,940,HTTP Request,429,Too Many Requests,Thread Group 1-400,text,false,,803,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,940,0,175
+1749729605823,891,HTTP Request,429,Too Many Requests,Thread Group 1-401,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,891,0,127
+1749729605987,904,HTTP Request,429,Too Many Requests,Thread Group 1-403,text,false,,807,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,904,0,131
+1749729606485,483,HTTP Request,429,Too Many Requests,Thread Group 1-409,text,false,,801,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,483,0,175
+1749729589796,17256,HTTP Request,200,OK,Thread Group 1-208,text,true,,74903,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,17197,0,134
+1749729588390,18909,HTTP Request,200,OK,Thread Group 1-191,text,true,,74905,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,18860,0,133
+1749729590218,17091,HTTP Request,200,OK,Thread Group 1-213,text,true,,74901,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,17026,0,144
+1749729606402,950,HTTP Request,429,Too Many Requests,Thread Group 1-408,text,false,,811,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,950,0,144
+1749729588468,18885,HTTP Request,200,OK,Thread Group 1-192,text,true,,74903,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,18828,0,157
+1749729589299,18059,HTTP Request,200,OK,Thread Group 1-202,text,true,,74903,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,18001,0,143
+1749729588640,18719,HTTP Request,200,OK,Thread Group 1-194,text,true,,74895,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,18669,0,134
+1749729590550,16886,HTTP Request,200,OK,Thread Group 1-217,text,true,,74893,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,16811,0,136
+1749729606652,900,HTTP Request,429,Too Many Requests,Thread Group 1-411,text,false,,809,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,900,0,145
+1749729607232,420,HTTP Request,429,Too Many Requests,Thread Group 1-418,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,420,0,123
+1749729606817,928,HTTP Request,429,Too Many Requests,Thread Group 1-413,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,928,0,134
+1749729606983,940,HTTP Request,429,Too Many Requests,Thread Group 1-415,text,false,,807,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,940,0,143
+1749729607066,886,HTTP Request,429,Too Many Requests,Thread Group 1-416,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,886,0,128
+1749729607140,890,HTTP Request,429,Too Many Requests,Thread Group 1-417,text,false,,809,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,890,0,113
+1749729591125,16966,HTTP Request,200,OK,Thread Group 1-224,text,true,,74906,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,16902,0,134
+1749729591706,16452,HTTP Request,200,OK,Thread Group 1-231,text,true,,74910,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,16385,0,126
+1749729589132,19232,HTTP Request,200,OK,Thread Group 1-200,text,true,,74893,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,19157,0,153
+1749729590301,18086,HTTP Request,200,OK,Thread Group 1-214,text,true,,74901,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,18023,0,131
+1749729590715,17676,HTTP Request,200,OK,Thread Group 1-219,text,true,,74899,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17618,0,151
+1749729591207,17243,HTTP Request,200,OK,Thread Group 1-225,text,true,,74903,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17180,0,128
+1749729607563,943,HTTP Request,429,Too Many Requests,Thread Group 1-422,text,false,,809,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,943,0,157
+1749729607471,1059,HTTP Request,429,Too Many Requests,Thread Group 1-421,text,false,,811,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,1059,0,250
+1749729607814,915,HTTP Request,429,Too Many Requests,Thread Group 1-425,text,false,,801,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,915,0,142
+1749729608324,482,HTTP Request,429,Too Many Requests,Thread Group 1-431,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,482,0,150
+1749729607980,926,HTTP Request,429,Too Many Requests,Thread Group 1-427,text,false,,813,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,926,0,161
+1749729608064,949,HTTP Request,429,Too Many Requests,Thread Group 1-428,text,false,,809,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,949,0,158
+1749729591623,17465,HTTP Request,200,OK,Thread Group 1-230,text,true,,74903,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,17408,0,143
+1749729592287,16922,HTTP Request,200,OK,Thread Group 1-238,text,true,,74903,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,16866,0,145
+1749729590135,19101,HTTP Request,200,OK,Thread Group 1-212,text,true,,74924,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,18857,0,154
+1749729590629,18638,HTTP Request,200,OK,Thread Group 1-218,text,true,,74905,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,18582,0,130
+1749729591291,17993,HTTP Request,200,OK,Thread Group 1-226,text,true,,74905,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,17918,0,145
+1749729591458,17940,HTTP Request,200,OK,Thread Group 1-228,text,true,,74903,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17886,0,117
+1749729590380,19018,HTTP Request,200,OK,Thread Group 1-215,text,true,,74907,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,18763,0,130
+1749729591043,18389,HTTP Request,200,OK,Thread Group 1-223,text,true,,74908,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,18318,0,149
+1749729608644,882,HTTP Request,429,Too Many Requests,Thread Group 1-435,text,false,,807,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,882,0,135
+1749729609142,444,HTTP Request,429,Too Many Requests,Thread Group 1-441,text,false,,807,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,444,0,126
+1749729609216,440,HTTP Request,429,Too Many Requests,Thread Group 1-442,text,false,,801,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,440,0,126
+1749729608800,961,HTTP Request,429,Too Many Requests,Thread Group 1-437,text,false,,807,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,961,0,167
+1749729608893,941,HTTP Request,429,Too Many Requests,Thread Group 1-438,text,false,,809,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,941,0,143
+1749729607897,1963,HTTP Request,429,Too Many Requests,Thread Group 1-426,text,false,,813,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,1963,0,1139
+1749729592205,17908,HTTP Request,200,OK,Thread Group 1-237,text,true,,74901,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,17845,0,124
+1749729609391,933,HTTP Request,429,Too Many Requests,Thread Group 1-444,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,933,0,139
+1749729609465,929,HTTP Request,429,Too Many Requests,Thread Group 1-445,text,false,,811,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,929,0,125
+1749729609974,443,HTTP Request,429,Too Many Requests,Thread Group 1-451,text,false,,807,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,443,0,144
+1749729591790,18627,HTTP Request,200,OK,Thread Group 1-232,text,true,,74897,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,18575,0,143
+1749729609558,911,HTTP Request,429,Too Many Requests,Thread Group 1-446,text,false,,801,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,911,0,140
+1749729609641,952,HTTP Request,429,Too Many Requests,Thread Group 1-447,text,false,,803,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,952,0,124
+1749729609809,929,HTTP Request,429,Too Many Requests,Thread Group 1-449,text,false,,805,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,929,0,124
+1749729609890,939,HTTP Request,429,Too Many Requests,Thread Group 1-450,text,false,,809,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,939,0,154
+1749729610394,461,HTTP Request,429,Too Many Requests,Thread Group 1-456,text,false,,807,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,461,0,158
+1749729610056,899,HTTP Request,429,Too Many Requests,Thread Group 1-452,text,false,,803,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,899,0,127
+1749729610554,447,HTTP Request,429,Too Many Requests,Thread Group 1-458,text,false,,803,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,447,0,140
+1749729610792,445,HTTP Request,429,Too Many Requests,Thread Group 1-461,text,false,,817,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,445,0,136
+1749729610304,953,HTTP Request,429,Too Many Requests,Thread Group 1-455,text,false,,803,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,953,0,142
+1749729592454,18863,HTTP Request,200,OK,Thread Group 1-240,text,true,,74903,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,18802,0,136
+1749729591872,19450,HTTP Request,200,OK,Thread Group 1-233,text,true,,74897,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,19385,0,132
+1749729593362,17999,HTTP Request,200,OK,Thread Group 1-251,text,true,,74895,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,17742,0,141
+1749729593284,18105,HTTP Request,200,OK,Thread Group 1-250,text,true,,74908,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,18039,0,147
+1749729610471,919,HTTP Request,429,Too Many Requests,Thread Group 1-457,text,false,,801,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,919,0,125
+1749729611052,426,HTTP Request,429,Too Many Requests,Thread Group 1-464,text,false,,811,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,426,0,117
+1749729611125,493,HTTP Request,429,Too Many Requests,Thread Group 1-465,text,false,,807,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,493,0,161
+1749729611218,432,HTTP Request,429,Too Many Requests,Thread Group 1-466,text,false,,805,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,432,0,126
+1749729611301,454,HTTP Request,429,Too Many Requests,Thread Group 1-467,text,false,,805,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,453,0,130
+1749729610887,891,HTTP Request,429,Too Many Requests,Thread Group 1-462,text,false,,807,137,104,104,https://ayusrilanka.lk/why-choose-sri-lanka/,891,0,143
+1749729611385,435,HTTP Request,429,Too Many Requests,Thread Group 1-468,text,false,,805,137,104,104,https://ayusrilanka.lk/why-choose-sri-lanka/,435,0,123
+1749729610969,916,HTTP Request,429,Too Many Requests,Thread Group 1-463,text,false,,805,137,104,104,https://ayusrilanka.lk/why-choose-sri-lanka/,916,0,131
+1749729592703,19302,HTTP Request,200,OK,Thread Group 1-243,text,true,,74912,137,104,104,https://ayusrilanka.lk/why-choose-sri-lanka/,18691,0,129
+1749729594120,18177,HTTP Request,200,OK,Thread Group 1-260,text,true,,74899,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,18115,0,156
+1749729593955,18402,HTTP Request,200,OK,Thread Group 1-258,text,true,,74899,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,18345,0,148
+1749729593195,19167,HTTP Request,200,OK,Thread Group 1-249,text,true,,74901,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,19112,0,122
+1749729592537,19827,HTTP Request,200,OK,Thread Group 1-241,text,true,,74899,137,104,104,https://ayusrilanka.lk/why-choose-sri-lanka/,19760,0,154
+1749729595278,17143,HTTP Request,200,OK,Thread Group 1-274,text,true,,74903,137,104,104,https://ayusrilanka.lk/why-choose-sri-lanka/,17084,0,110
+1749729593451,18994,HTTP Request,200,OK,Thread Group 1-252,text,true,,74903,137,103,103,https://ayusrilanka.lk/why-choose-sri-lanka/,18942,0,121
+1749729593534,18929,HTTP Request,200,OK,Thread Group 1-253,text,true,,74897,137,103,103,https://ayusrilanka.lk/why-choose-sri-lanka/,18847,0,176
+1749729612047,936,HTTP Request,429,Too Many Requests,Thread Group 1-476,text,false,,805,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,936,0,152
+1749729596184,16798,HTTP Request,200,OK,Thread Group 1-285,text,true,,74907,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,16011,0,151
+1749729595195,17807,HTTP Request,200,OK,Thread Group 1-273,text,true,,74911,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,17234,0,155
+1749729594280,18744,HTTP Request,200,OK,Thread Group 1-262,text,true,,74905,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,18160,0,144
+1749729594363,18924,HTTP Request,200,OK,Thread Group 1-263,text,true,,74899,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,18865,0,139
+1749729594530,18772,HTTP Request,200,OK,Thread Group 1-265,text,true,,74895,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,18724,0,140
+1749729594447,18897,HTTP Request,200,OK,Thread Group 1-264,text,true,,74906,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,18838,0,154
+1749729595446,17919,HTTP Request,200,OK,Thread Group 1-276,text,true,,74908,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,17856,0,157
+1749729595685,17698,HTTP Request,200,OK,Thread Group 1-279,text,true,,74897,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,17624,0,147
+1749729613282,462,HTTP Request,429,Too Many Requests,Thread Group 1-491,text,false,,805,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,462,0,151
+1749729612879,902,HTTP Request,429,Too Many Requests,Thread Group 1-486,text,false,,815,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,902,0,127
+1749729613034,887,HTTP Request,429,Too Many Requests,Thread Group 1-488,text,false,,805,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,887,0,134
+1749729613129,933,HTTP Request,429,Too Many Requests,Thread Group 1-489,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,933,0,160
+1749729596687,17476,HTTP Request,200,OK,Thread Group 1-291,text,true,,74907,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,17396,0,142
+1749729595609,18727,HTTP Request,200,OK,Thread Group 1-278,text,true,,74899,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,18651,0,147
+1749729596853,17493,HTTP Request,200,OK,Thread Group 1-293,text,true,,74903,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,17444,0,144
+1749729595361,19027,HTTP Request,200,OK,Thread Group 1-275,text,true,,74897,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,18952,0,134
+1749729596354,18055,HTTP Request,200,OK,Thread Group 1-287,text,true,,74897,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17991,0,153
+1749729614040,473,HTTP Request,429,Too Many Requests,Thread Group 1-500,text,false,,803,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,473,0,162
+1749729613626,910,HTTP Request,429,Too Many Requests,Thread Group 1-495,text,false,,811,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,910,0,122
+1749729614206,407,HTTP Request,429,Too Many Requests,Thread Group 1-502,text,false,,811,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,407,0,112
+1749729614278,461,HTTP Request,429,Too Many Requests,Thread Group 1-503,text,false,,805,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,461,0,135
+1749729613874,931,HTTP Request,429,Too Many Requests,Thread Group 1-498,text,false,,803,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,931,0,154
+1749729614372,471,HTTP Request,429,Too Many Requests,Thread Group 1-504,text,false,,799,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,471,0,165
+1749729613957,886,HTTP Request,429,Too Many Requests,Thread Group 1-499,text,false,,807,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,886,0,131
+1749729614124,938,HTTP Request,429,Too Many Requests,Thread Group 1-501,text,false,,803,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,938,0,140
+1749729614456,895,HTTP Request,429,Too Many Requests,Thread Group 1-505,text,false,,805,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,895,0,134
+1749729596446,18956,HTTP Request,200,OK,Thread Group 1-288,text,true,,74899,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,18878,0,171
+1749729614955,448,HTTP Request,429,Too Many Requests,Thread Group 1-511,text,false,,809,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,448,0,140
+1749729597442,17978,HTTP Request,200,OK,Thread Group 1-300,text,true,,74903,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17918,0,153
+1749729614538,959,HTTP Request,429,Too Many Requests,Thread Group 1-506,text,false,,809,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,959,0,158
+1749729614705,968,HTTP Request,429,Too Many Requests,Thread Group 1-508,text,false,,801,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,968,0,141
+1749729614622,1147,HTTP Request,429,Too Many Requests,Thread Group 1-507,text,false,,811,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,1147,0,148
+1749729615369,470,HTTP Request,429,Too Many Requests,Thread Group 1-516,text,false,,801,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,470,0,151
+1749729615038,895,HTTP Request,429,Too Many Requests,Thread Group 1-512,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,895,0,124
+1749729599601,16378,HTTP Request,200,OK,Thread Group 1-326,text,true,,74902,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,15810,0,148
+1749729615535,445,HTTP Request,429,Too Many Requests,Thread Group 1-518,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,445,0,141
+1749729595768,20236,HTTP Request,200,OK,Thread Group 1-280,text,true,,74903,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,19590,0,160
+1749729598357,17898,HTTP Request,200,OK,Thread Group 1-311,text,true,,74895,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,17849,0,143
+1749729597185,19123,HTTP Request,200,OK,Thread Group 1-297,text,true,,74897,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,19070,0,130
+1749729599260,17066,HTTP Request,200,OK,Thread Group 1-322,text,true,,74899,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17002,0,131
+1749729598431,17911,HTTP Request,200,OK,Thread Group 1-312,text,true,,74895,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,17847,0,159
+1749729597350,19011,HTTP Request,200,OK,Thread Group 1-299,text,true,,74905,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,18939,0,140
+1749729597516,18887,HTTP Request,200,OK,Thread Group 1-301,text,true,,74904,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,18810,0,155
+1749729597599,18833,HTTP Request,200,OK,Thread Group 1-302,text,true,,74903,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,18762,0,148
+1749729598099,18353,HTTP Request,200,OK,Thread Group 1-308,text,true,,74897,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,18280,0,160
+1749729615950,943,HTTP Request,429,Too Many Requests,Thread Group 1-523,text,false,,807,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,943,0,155
+1749729616033,935,HTTP Request,429,Too Many Requests,Thread Group 1-524,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,935,0,153
+1749729597683,19329,HTTP Request,200,OK,Thread Group 1-303,text,true,,74917,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,18749,0,136
+1749729599670,17561,HTTP Request,200,OK,Thread Group 1-327,text,true,,74905,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,17486,0,157
+1749729598017,19332,HTTP Request,200,OK,Thread Group 1-307,text,true,,74895,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,19267,0,106
+1749729598513,18873,HTTP Request,200,OK,Thread Group 1-313,text,true,,74906,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,18802,0,158
+1749729585480,31952,HTTP Request,200,OK,Thread Group 1-156,text,true,,74899,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,31890,0,150
+1749729599337,18128,HTTP Request,200,OK,Thread Group 1-323,text,true,,74899,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,18049,0,150
+1749729600185,17281,HTTP Request,200,OK,Thread Group 1-333,text,true,,74906,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17224,0,144
+1749729616614,895,HTTP Request,429,Too Many Requests,Thread Group 1-531,text,false,,811,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,895,0,138
+1749729616697,948,HTTP Request,429,Too Many Requests,Thread Group 1-532,text,false,,805,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,948,0,155
+1749729616780,901,HTTP Request,429,Too Many Requests,Thread Group 1-533,text,false,,805,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,901,0,143
+1749729617196,485,HTTP Request,429,Too Many Requests,Thread Group 1-538,text,false,,801,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,485,0,155
+1749729617028,937,HTTP Request,429,Too Many Requests,Thread Group 1-536,text,false,,803,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,937,0,166
+1749729599509,18509,HTTP Request,200,OK,Thread Group 1-325,text,true,,74911,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17922,0,140
+1749729599759,18557,HTTP Request,200,OK,Thread Group 1-328,text,true,,74901,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,18490,0,136
+1749729601097,17276,HTTP Request,200,OK,Thread Group 1-344,text,true,,74901,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,17219,0,154
+1749729599924,18448,HTTP Request,200,OK,Thread Group 1-330,text,true,,74899,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,18376,0,153
+1749729601844,16544,HTTP Request,200,OK,Thread Group 1-353,text,true,,74910,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,16307,0,150
+1749729618108,433,HTTP Request,429,Too Many Requests,Thread Group 1-549,text,false,,805,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,433,0,143
+1749729617527,1014,HTTP Request,429,Too Many Requests,Thread Group 1-542,text,false,,807,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,1014,0,180
+1749729618180,437,HTTP Request,429,Too Many Requests,Thread Group 1-550,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,437,0,140
+1749729617693,955,HTTP Request,429,Too Many Requests,Thread Group 1-544,text,false,,807,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,955,0,133
+1749729617776,941,HTTP Request,429,Too Many Requests,Thread Group 1-545,text,false,,805,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,941,0,156
+1749729617859,928,HTTP Request,429,Too Many Requests,Thread Group 1-546,text,false,,807,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,928,0,141
+1749729617931,906,HTTP Request,429,Too Many Requests,Thread Group 1-547,text,false,,805,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,906,0,141
+1749729618442,456,HTTP Request,429,Too Many Requests,Thread Group 1-553,text,false,,803,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,456,0,141
+1749729618026,873,HTTP Request,429,Too Many Requests,Thread Group 1-548,text,false,,811,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,873,0,127
+1749729599841,19159,HTTP Request,200,OK,Thread Group 1-329,text,true,,74917,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,18546,0,126
+1749729618855,454,HTTP Request,429,Too Many Requests,Thread Group 1-558,text,false,,805,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,454,0,149
+1749729601337,18001,HTTP Request,200,OK,Thread Group 1-347,text,true,,74905,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17748,0,143
+1749729618938,439,HTTP Request,429,Too Many Requests,Thread Group 1-559,text,false,,815,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,439,0,132
+1749729618523,888,HTTP Request,429,Too Many Requests,Thread Group 1-554,text,false,,813,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,888,0,128
+1749729619021,425,HTTP Request,429,Too Many Requests,Thread Group 1-560,text,false,,811,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,425,0,122
+1749729618606,893,HTTP Request,429,Too Many Requests,Thread Group 1-555,text,false,,803,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,893,0,138
+1749729618689,908,HTTP Request,429,Too Many Requests,Thread Group 1-556,text,false,,803,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,908,0,151
+1749729618771,927,HTTP Request,429,Too Many Requests,Thread Group 1-557,text,false,,799,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,927,0,130
+1749729604907,15206,HTTP Request,200,OK,Thread Group 1-390,text,true,,74903,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,15140,0,133
+1749729602824,17327,HTTP Request,200,OK,Thread Group 1-365,text,true,,74895,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,17267,0,136
+1749729601263,19053,HTTP Request,200,OK,Thread Group 1-346,text,true,,74903,137,111,111,https://ayusrilanka.lk/why-choose-sri-lanka/,18985,0,128
+1749729602916,17405,HTTP Request,200,OK,Thread Group 1-366,text,true,,74895,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,17346,0,123
+1749729601504,18817,HTTP Request,200,OK,Thread Group 1-349,text,true,,74897,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,18750,0,151
+1749729602585,17748,HTTP Request,200,OK,Thread Group 1-362,text,true,,74899,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,17680,0,150
+1749729602168,18196,HTTP Request,200,OK,Thread Group 1-357,text,true,,74920,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,18122,0,132
+1749729602334,18075,HTTP Request,200,OK,Thread Group 1-359,text,true,,74908,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,17999,0,127
+1749729619520,890,HTTP Request,429,Too Many Requests,Thread Group 1-566,text,false,,803,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,890,0,155
+1749729620018,464,HTTP Request,429,Too Many Requests,Thread Group 1-572,text,false,,807,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,464,0,162
+1749729619686,925,HTTP Request,429,Too Many Requests,Thread Group 1-568,text,false,,805,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,925,0,144
+1749729619770,891,HTTP Request,429,Too Many Requests,Thread Group 1-569,text,false,,807,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,891,0,135
+1749729620184,477,HTTP Request,429,Too Many Requests,Thread Group 1-574,text,false,,807,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,477,0,153
+1749729620434,460,HTTP Request,429,Too Many Requests,Thread Group 1-577,text,false,,807,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,460,0,155
+1749729602760,18231,HTTP Request,200,OK,Thread Group 1-364,text,true,,74908,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,17364,0,123
+1749729603590,17461,HTTP Request,200,OK,Thread Group 1-374,text,true,,74909,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,17387,0,130
+1749729601595,19472,HTTP Request,200,OK,Thread Group 1-350,text,true,,74907,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,19397,0,167
+1749729602251,19041,HTTP Request,200,OK,Thread Group 1-358,text,true,,74901,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,18988,0,140
+1749729603246,18063,HTTP Request,200,OK,Thread Group 1-370,text,true,,74913,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,17822,0,144
+1749729602676,18685,HTTP Request,200,OK,Thread Group 1-363,text,true,,74903,137,107,107,https://ayusrilanka.lk/why-choose-sri-lanka/,18616,0,172
+1749729603166,18215,HTTP Request,200,OK,Thread Group 1-369,text,true,,74901,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,18143,0,129
+1749729603092,18329,HTTP Request,200,OK,Thread Group 1-368,text,true,,74893,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,18250,0,152
+1749729620932,937,HTTP Request,429,Too Many Requests,Thread Group 1-583,text,false,,807,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,937,0,140
+1749729621512,432,HTTP Request,429,Too Many Requests,Thread Group 1-590,text,false,,805,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,432,0,128
+1749729621014,930,HTTP Request,429,Too Many Requests,Thread Group 1-584,text,false,,809,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,930,0,158
+1749729621346,953,HTTP Request,429,Too Many Requests,Thread Group 1-588,text,false,,813,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,953,0,155
+1749729621844,455,HTTP Request,429,Too Many Requests,Thread Group 1-594,text,false,,811,137,112,112,https://ayusrilanka.lk/why-choose-sri-lanka/,455,0,144
+1749729604575,17747,HTTP Request,200,OK,Thread Group 1-386,text,true,,74906,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,17700,0,127
+1749729621428,937,HTTP Request,429,Too Many Requests,Thread Group 1-589,text,false,,803,137,110,110,https://ayusrilanka.lk/why-choose-sri-lanka/,937,0,143
+1749729604658,17720,HTTP Request,200,OK,Thread Group 1-387,text,true,,74897,137,109,109,https://ayusrilanka.lk/why-choose-sri-lanka/,17664,0,161
+1749729622092,446,HTTP Request,429,Too Many Requests,Thread Group 1-597,text,false,,807,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,446,0,139
+1749729621594,944,HTTP Request,429,Too Many Requests,Thread Group 1-591,text,false,,809,137,108,108,https://ayusrilanka.lk/why-choose-sri-lanka/,944,0,160
+1749729621678,935,HTTP Request,429,Too Many Requests,Thread Group 1-592,text,false,,815,137,106,106,https://ayusrilanka.lk/why-choose-sri-lanka/,935,0,155
+1749729621761,961,HTTP Request,429,Too Many Requests,Thread Group 1-593,text,false,,805,137,105,105,https://ayusrilanka.lk/why-choose-sri-lanka/,961,0,150
+1749729622258,489,HTTP Request,429,Too Many Requests,Thread Group 1-599,text,false,,809,137,104,104,https://ayusrilanka.lk/why-choose-sri-lanka/,489,0,147
+1749729622341,455,HTTP Request,429,Too Many Requests,Thread Group 1-600,text,false,,805,137,103,103,https://ayusrilanka.lk/why-choose-sri-lanka/,455,0,141
+1749729621927,941,HTTP Request,429,Too Many Requests,Thread Group 1-595,text,false,,801,137,102,102,https://ayusrilanka.lk/why-choose-sri-lanka/,941,0,136
+1749729622009,922,HTTP Request,429,Too Many Requests,Thread Group 1-596,text,false,,809,137,101,101,https://ayusrilanka.lk/why-choose-sri-lanka/,922,0,149
+1749729604234,18761,HTTP Request,200,OK,Thread Group 1-382,text,true,,74904,137,100,100,https://ayusrilanka.lk/why-choose-sri-lanka/,18144,0,125
+1749729605157,17860,HTTP Request,200,OK,Thread Group 1-393,text,true,,74901,137,99,99,https://ayusrilanka.lk/why-choose-sri-lanka/,16997,0,148
+1749729604318,18744,HTTP Request,200,OK,Thread Group 1-383,text,true,,74909,137,98,98,https://ayusrilanka.lk/why-choose-sri-lanka/,18046,0,140
+1749729605239,17854,HTTP Request,200,OK,Thread Group 1-394,text,true,,74899,137,97,97,https://ayusrilanka.lk/why-choose-sri-lanka/,17794,0,130
+1749729605336,18157,HTTP Request,200,OK,Thread Group 1-395,text,true,,74897,137,96,96,https://ayusrilanka.lk/why-choose-sri-lanka/,18100,0,143
+1749729607648,16014,HTTP Request,200,OK,Thread Group 1-423,text,true,,74897,137,95,95,https://ayusrilanka.lk/why-choose-sri-lanka/,15791,0,151
+1749729604732,19113,HTTP Request,200,OK,Thread Group 1-388,text,true,,74906,137,94,94,https://ayusrilanka.lk/why-choose-sri-lanka/,18451,0,131
+1749729606900,17413,HTTP Request,200,OK,Thread Group 1-414,text,true,,74901,137,93,93,https://ayusrilanka.lk/why-choose-sri-lanka/,17355,0,126
+1749729606226,18179,HTTP Request,200,OK,Thread Group 1-406,text,true,,74899,137,92,92,https://ayusrilanka.lk/why-choose-sri-lanka/,18087,0,145
+1749729606071,18464,HTTP Request,200,OK,Thread Group 1-404,text,true,,74899,137,91,91,https://ayusrilanka.lk/why-choose-sri-lanka/,18187,0,148
+1749729605417,19657,HTTP Request,200,OK,Thread Group 1-396,text,true,,74905,137,90,90,https://ayusrilanka.lk/why-choose-sri-lanka/,18954,0,137
+1749729606153,18924,HTTP Request,200,OK,Thread Group 1-405,text,true,,74905,137,89,89,https://ayusrilanka.lk/why-choose-sri-lanka/,18252,0,139
+1749729606734,18417,HTTP Request,200,OK,Thread Group 1-412,text,true,,74897,137,88,88,https://ayusrilanka.lk/why-choose-sri-lanka/,18341,0,139
+1749729607730,17594,HTTP Request,200,OK,Thread Group 1-424,text,true,,74897,137,87,87,https://ayusrilanka.lk/why-choose-sri-lanka/,17542,0,144
+1749729607397,17931,HTTP Request,200,OK,Thread Group 1-420,text,true,,74905,137,86,86,https://ayusrilanka.lk/why-choose-sri-lanka/,17873,0,236
+1749729606569,18784,HTTP Request,200,OK,Thread Group 1-410,text,true,,74909,137,85,85,https://ayusrilanka.lk/why-choose-sri-lanka/,18716,0,1151
+1749729607315,18058,HTTP Request,200,OK,Thread Group 1-419,text,true,,74893,137,84,84,https://ayusrilanka.lk/why-choose-sri-lanka/,17991,0,124
+1749729606320,19053,HTTP Request,200,OK,Thread Group 1-407,text,true,,74897,137,84,84,https://ayusrilanka.lk/why-choose-sri-lanka/,19003,0,119
+1749729608976,17189,HTTP Request,200,OK,Thread Group 1-439,text,true,,74903,137,82,82,https://ayusrilanka.lk/why-choose-sri-lanka/,17123,0,153
+1749729608146,18167,HTTP Request,200,OK,Thread Group 1-429,text,true,,74909,137,81,81,https://ayusrilanka.lk/why-choose-sri-lanka/,18092,0,147
+1749729609308,17029,HTTP Request,200,OK,Thread Group 1-443,text,true,,74910,137,80,80,https://ayusrilanka.lk/why-choose-sri-lanka/,16793,0,128
+1749729608478,18795,HTTP Request,200,OK,Thread Group 1-433,text,true,,74916,137,79,79,https://ayusrilanka.lk/why-choose-sri-lanka/,18646,0,155
+1749729608229,19066,HTTP Request,200,OK,Thread Group 1-430,text,true,,74901,137,78,78,https://ayusrilanka.lk/why-choose-sri-lanka/,19018,0,139
+1749729608561,18759,HTTP Request,200,OK,Thread Group 1-434,text,true,,74903,137,77,77,https://ayusrilanka.lk/why-choose-sri-lanka/,18685,0,148
+1749729608396,18966,HTTP Request,200,OK,Thread Group 1-432,text,true,,74897,137,76,76,https://ayusrilanka.lk/why-choose-sri-lanka/,18898,0,138
+1749729610222,17175,HTTP Request,200,OK,Thread Group 1-454,text,true,,74897,137,75,75,https://ayusrilanka.lk/why-choose-sri-lanka/,17117,0,130
+1749729609059,18928,HTTP Request,200,OK,Thread Group 1-440,text,true,,74900,137,74,74,https://ayusrilanka.lk/why-choose-sri-lanka/,18065,0,144
+1749729608727,19274,HTTP Request,200,OK,Thread Group 1-436,text,true,,74909,137,73,73,https://ayusrilanka.lk/why-choose-sri-lanka/,18401,0,157
+1749729610719,17334,HTTP Request,200,OK,Thread Group 1-460,text,true,,74903,137,72,72,https://ayusrilanka.lk/why-choose-sri-lanka/,17269,0,140
+1749729609725,18386,HTTP Request,200,OK,Thread Group 1-448,text,true,,74911,137,71,71,https://ayusrilanka.lk/why-choose-sri-lanka/,18303,0,169
+1749729611715,16591,HTTP Request,200,OK,Thread Group 1-472,text,true,,74897,137,70,70,https://ayusrilanka.lk/why-choose-sri-lanka/,16523,0,134
+1749729612214,16194,HTTP Request,200,OK,Thread Group 1-478,text,true,,74899,137,69,69,https://ayusrilanka.lk/why-choose-sri-lanka/,16120,0,146
+1749729610628,18449,HTTP Request,200,OK,Thread Group 1-459,text,true,,74903,137,68,68,https://ayusrilanka.lk/why-choose-sri-lanka/,17504,0,135
+1749729612297,16849,HTTP Request,200,OK,Thread Group 1-479,text,true,,74909,137,67,67,https://ayusrilanka.lk/why-choose-sri-lanka/,16780,0,128
+1749729610139,19122,HTTP Request,200,OK,Thread Group 1-453,text,true,,74899,137,66,66,https://ayusrilanka.lk/why-choose-sri-lanka/,19066,0,145
+1749729611458,17867,HTTP Request,200,OK,Thread Group 1-469,text,true,,74903,137,65,65,https://ayusrilanka.lk/why-choose-sri-lanka/,17805,0,140
+1749729611798,17528,HTTP Request,200,OK,Thread Group 1-473,text,true,,74899,137,65,65,https://ayusrilanka.lk/why-choose-sri-lanka/,17463,0,121
+1749729611882,17512,HTTP Request,200,OK,Thread Group 1-474,text,true,,74901,137,63,63,https://ayusrilanka.lk/why-choose-sri-lanka/,17444,0,148
+1749729611550,18796,HTTP Request,200,OK,Thread Group 1-470,text,true,,74899,137,62,62,https://ayusrilanka.lk/why-choose-sri-lanka/,18748,0,142
+1749729611634,18766,HTTP Request,200,OK,Thread Group 1-471,text,true,,74904,137,61,61,https://ayusrilanka.lk/why-choose-sri-lanka/,18691,0,148
+1749729613376,17041,HTTP Request,200,OK,Thread Group 1-492,text,true,,74895,137,60,60,https://ayusrilanka.lk/why-choose-sri-lanka/,16969,0,173
+1749729612547,17988,HTTP Request,200,OK,Thread Group 1-482,text,true,,74895,137,59,59,https://ayusrilanka.lk/why-choose-sri-lanka/,17753,0,145
+1749729612463,18464,HTTP Request,200,OK,Thread Group 1-481,text,true,,74895,137,58,58,https://ayusrilanka.lk/why-choose-sri-lanka/,18141,0,158
+1749729612630,18383,HTTP Request,200,OK,Thread Group 1-483,text,true,,74905,137,57,57,https://ayusrilanka.lk/why-choose-sri-lanka/,17737,0,138
+1749729612962,18079,HTTP Request,200,OK,Thread Group 1-487,text,true,,74913,137,56,56,https://ayusrilanka.lk/why-choose-sri-lanka/,18028,0,137
+1749729611965,19159,HTTP Request,200,OK,Thread Group 1-475,text,true,,74899,137,55,55,https://ayusrilanka.lk/why-choose-sri-lanka/,18935,0,165
+1749729613708,17500,HTTP Request,200,OK,Thread Group 1-496,text,true,,74913,137,54,54,https://ayusrilanka.lk/why-choose-sri-lanka/,17443,0,142
+1749729612131,19140,HTTP Request,200,OK,Thread Group 1-477,text,true,,74897,137,53,53,https://ayusrilanka.lk/why-choose-sri-lanka/,19088,0,132
+1749729612370,18963,HTTP Request,200,OK,Thread Group 1-480,text,true,,74901,137,52,52,https://ayusrilanka.lk/why-choose-sri-lanka/,18901,0,144
+1749729612713,18624,HTTP Request,200,OK,Thread Group 1-484,text,true,,74899,137,51,51,https://ayusrilanka.lk/why-choose-sri-lanka/,18565,0,157
+1749729612795,18621,HTTP Request,200,OK,Thread Group 1-485,text,true,,74907,137,50,50,https://ayusrilanka.lk/why-choose-sri-lanka/,18549,0,153
+1749729613542,17874,HTTP Request,200,OK,Thread Group 1-494,text,true,,74903,137,50,50,https://ayusrilanka.lk/why-choose-sri-lanka/,17794,0,173
+1749729613210,18848,HTTP Request,200,OK,Thread Group 1-490,text,true,,74901,137,48,48,https://ayusrilanka.lk/why-choose-sri-lanka/,17951,0,139
+1749729613459,18943,HTTP Request,200,OK,Thread Group 1-493,text,true,,74904,137,47,47,https://ayusrilanka.lk/why-choose-sri-lanka/,18887,0,138
+1749729613791,18630,HTTP Request,200,OK,Thread Group 1-497,text,true,,74897,137,46,46,https://ayusrilanka.lk/why-choose-sri-lanka/,18562,0,132
+1749729615700,17363,HTTP Request,200,OK,Thread Group 1-520,text,true,,74902,137,45,45,https://ayusrilanka.lk/why-choose-sri-lanka/,16693,0,140
+1749729614789,18328,HTTP Request,200,OK,Thread Group 1-509,text,true,,74905,137,44,44,https://ayusrilanka.lk/why-choose-sri-lanka/,18274,0,122
+1749729615866,17319,HTTP Request,200,OK,Thread Group 1-522,text,true,,74910,137,43,43,https://ayusrilanka.lk/why-choose-sri-lanka/,17251,0,140
+1749729615606,17621,HTTP Request,200,OK,Thread Group 1-519,text,true,,74903,137,42,42,https://ayusrilanka.lk/why-choose-sri-lanka/,17545,0,1146
+1749729615121,18191,HTTP Request,200,OK,Thread Group 1-513,text,true,,74903,137,41,41,https://ayusrilanka.lk/why-choose-sri-lanka/,18136,0,143
+1749729616531,16885,HTTP Request,200,OK,Thread Group 1-530,text,true,,74897,137,40,40,https://ayusrilanka.lk/why-choose-sri-lanka/,16810,0,151
+1749729614871,19216,HTTP Request,200,OK,Thread Group 1-510,text,true,,74911,137,39,39,https://ayusrilanka.lk/why-choose-sri-lanka/,18498,0,153
+1749729616188,17972,HTTP Request,200,OK,Thread Group 1-526,text,true,,74913,137,38,38,https://ayusrilanka.lk/why-choose-sri-lanka/,17899,0,141
+1749729615452,18838,HTTP Request,200,OK,Thread Group 1-517,text,true,,74899,137,37,37,https://ayusrilanka.lk/why-choose-sri-lanka/,18782,0,148
+1749729616116,18182,HTTP Request,200,OK,Thread Group 1-525,text,true,,74909,137,36,36,https://ayusrilanka.lk/why-choose-sri-lanka/,17974,0,139
+1749729615204,19133,HTTP Request,200,OK,Thread Group 1-514,text,true,,74899,137,35,35,https://ayusrilanka.lk/why-choose-sri-lanka/,19059,0,123
+1749729615287,19078,HTTP Request,200,OK,Thread Group 1-515,text,true,,74897,137,34,34,https://ayusrilanka.lk/why-choose-sri-lanka/,19011,0,155
+1749729617113,17356,HTTP Request,200,OK,Thread Group 1-537,text,true,,74903,137,33,33,https://ayusrilanka.lk/why-choose-sri-lanka/,17276,0,157
+1749729615783,18836,HTTP Request,200,OK,Thread Group 1-521,text,true,,74909,137,32,32,https://ayusrilanka.lk/why-choose-sri-lanka/,18535,0,123
+1749729616863,18321,HTTP Request,200,OK,Thread Group 1-534,text,true,,74905,137,31,31,https://ayusrilanka.lk/why-choose-sri-lanka/,18247,0,128
+1749729616282,19019,HTTP Request,200,OK,Thread Group 1-527,text,true,,74899,137,30,30,https://ayusrilanka.lk/why-choose-sri-lanka/,18951,0,142
+1749729616449,18872,HTTP Request,200,OK,Thread Group 1-529,text,true,,74895,137,29,29,https://ayusrilanka.lk/why-choose-sri-lanka/,18793,0,156
+1749729616365,18978,HTTP Request,200,OK,Thread Group 1-528,text,true,,74903,137,28,28,https://ayusrilanka.lk/why-choose-sri-lanka/,18921,0,138
+1749729617278,18764,HTTP Request,200,OK,Thread Group 1-539,text,true,,74904,137,27,27,https://ayusrilanka.lk/why-choose-sri-lanka/,18066,0,156
+1749729616945,19164,HTTP Request,200,OK,Thread Group 1-535,text,true,,74907,137,26,26,https://ayusrilanka.lk/why-choose-sri-lanka/,19097,0,140
+1749729619604,16575,HTTP Request,200,OK,Thread Group 1-567,text,true,,74899,137,25,25,https://ayusrilanka.lk/why-choose-sri-lanka/,16512,0,149
+1749729617609,18718,HTTP Request,200,OK,Thread Group 1-543,text,true,,74905,137,24,24,https://ayusrilanka.lk/why-choose-sri-lanka/,18645,0,144
+1749729619852,17380,HTTP Request,200,OK,Thread Group 1-570,text,true,,74907,137,23,23,https://ayusrilanka.lk/why-choose-sri-lanka/,17307,0,152
+1749729617362,19898,HTTP Request,200,OK,Thread Group 1-540,text,true,,74901,137,22,22,https://ayusrilanka.lk/why-choose-sri-lanka/,19841,0,125
+1749729619105,18199,HTTP Request,200,OK,Thread Group 1-561,text,true,,74909,137,21,21,https://ayusrilanka.lk/why-choose-sri-lanka/,18133,0,140
+1749729619270,18040,HTTP Request,200,OK,Thread Group 1-563,text,true,,74897,137,20,20,https://ayusrilanka.lk/why-choose-sri-lanka/,17990,0,109
+1749729619354,18009,HTTP Request,200,OK,Thread Group 1-564,text,true,,74901,137,19,19,https://ayusrilanka.lk/why-choose-sri-lanka/,17954,0,126
+1749729620101,17286,HTTP Request,200,OK,Thread Group 1-573,text,true,,74899,137,18,18,https://ayusrilanka.lk/why-choose-sri-lanka/,17226,0,150
+1749729618357,19050,HTTP Request,200,OK,Thread Group 1-552,text,true,,74899,137,17,17,https://ayusrilanka.lk/why-choose-sri-lanka/,18981,0,122
+1749729619188,18226,HTTP Request,200,OK,Thread Group 1-562,text,true,,74903,137,16,16,https://ayusrilanka.lk/why-choose-sri-lanka/,18177,0,124
+1749729618275,19159,HTTP Request,200,OK,Thread Group 1-551,text,true,,74901,137,15,15,https://ayusrilanka.lk/why-choose-sri-lanka/,19088,0,137
+1749729617444,20656,HTTP Request,200,OK,Thread Group 1-541,text,true,,74909,137,14,14,https://ayusrilanka.lk/why-choose-sri-lanka/,19934,0,136
+1749729620601,17853,HTTP Request,200,OK,Thread Group 1-579,text,true,,74901,137,13,13,https://ayusrilanka.lk/why-choose-sri-lanka/,17786,0,132
+1749729619436,19261,HTTP Request,200,OK,Thread Group 1-565,text,true,,74909,137,12,12,https://ayusrilanka.lk/why-choose-sri-lanka/,18954,0,133
+1749729620350,18553,HTTP Request,200,OK,Thread Group 1-576,text,true,,74911,137,11,11,https://ayusrilanka.lk/why-choose-sri-lanka/,18279,0,135
+1749729619936,19174,HTTP Request,200,OK,Thread Group 1-571,text,true,,74905,137,10,10,https://ayusrilanka.lk/why-choose-sri-lanka/,19114,0,144
+1749729620682,18451,HTTP Request,200,OK,Thread Group 1-580,text,true,,74897,137,9,9,https://ayusrilanka.lk/why-choose-sri-lanka/,18381,0,121
+1749729622175,17089,HTTP Request,200,OK,Thread Group 1-598,text,true,,74908,137,8,8,https://ayusrilanka.lk/why-choose-sri-lanka/,16846,0,127
+1749729621097,18190,HTTP Request,200,OK,Thread Group 1-585,text,true,,74909,137,7,7,https://ayusrilanka.lk/why-choose-sri-lanka/,17947,0,124
+1749729621180,18156,HTTP Request,200,OK,Thread Group 1-586,text,true,,74895,137,6,6,https://ayusrilanka.lk/why-choose-sri-lanka/,18084,0,134
+1749729620267,19074,HTTP Request,200,OK,Thread Group 1-575,text,true,,74897,137,5,5,https://ayusrilanka.lk/why-choose-sri-lanka/,19023,0,122
+1749729620849,18504,HTTP Request,200,OK,Thread Group 1-582,text,true,,74899,137,4,4,https://ayusrilanka.lk/why-choose-sri-lanka/,18439,0,146
+1749729620515,18862,HTTP Request,200,OK,Thread Group 1-578,text,true,,74897,137,3,3,https://ayusrilanka.lk/why-choose-sri-lanka/,18794,0,148
+1749729621251,18159,HTTP Request,200,OK,Thread Group 1-587,text,true,,74903,137,2,2,https://ayusrilanka.lk/why-choose-sri-lanka/,18102,0,134
+1749729620766,18742,HTTP Request,200,OK,Thread Group 1-581,text,true,,74901,137,1,1,https://ayusrilanka.lk/why-choose-sri-lanka/,18674,0,131
